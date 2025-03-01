@@ -1,0 +1,1 @@
+En este dashboard he querido plasmar cómo afecta la calidad de los establecimientos y del servicio prestado a factores como el precio, el barrio, las reseñas, la experiencia del anfitrión... Para ello he usado varios tipos de gráficos en los que se comparan estos factores. 
